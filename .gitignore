@@ -8,6 +8,9 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+app.json
+herboku.jks
+credentials.txt
 
 # macOS
 .DS_Store
